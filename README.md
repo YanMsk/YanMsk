@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yan Masko!
+# Hi, I'm Yan!
 
 👨🏻‍💻 Junior Frontend Developer building clean, responsive, and type-safe web applications<br/>
 
