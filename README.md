@@ -2,9 +2,7 @@
 
 # Hi, I'm Yan!
 
-👨🏻‍💻 Junior Frontend Developer building clean, responsive, and type-safe web applications<br/>
-
-👨🏻‍🎓 Studied Web Programming and Computer Design at Vitebsk State University (2020 – 2024)<br/>
+<h3>Junior Frontend Developer</h3>
 
 🚀 Focused on React, TypeScript, Redux, and full-stack client-server architecture<br/>
 
